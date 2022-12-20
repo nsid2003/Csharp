@@ -1,0 +1,15 @@
+C:\PorC#\projet1\bin\Debug\net6.0\projet1.exe
+C:\PorC#\projet1\bin\Debug\net6.0\projet1.deps.json
+C:\PorC#\projet1\bin\Debug\net6.0\projet1.runtimeconfig.json
+C:\PorC#\projet1\bin\Debug\net6.0\projet1.dll
+C:\PorC#\projet1\bin\Debug\net6.0\projet1.pdb
+C:\PorC#\projet1\obj\Debug\net6.0\projet1.csproj.AssemblyReference.cache
+C:\PorC#\projet1\obj\Debug\net6.0\projet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PorC#\projet1\obj\Debug\net6.0\projet1.AssemblyInfoInputs.cache
+C:\PorC#\projet1\obj\Debug\net6.0\projet1.AssemblyInfo.cs
+C:\PorC#\projet1\obj\Debug\net6.0\projet1.csproj.CoreCompileInputs.cache
+C:\PorC#\projet1\obj\Debug\net6.0\projet1.dll
+C:\PorC#\projet1\obj\Debug\net6.0\refint\projet1.dll
+C:\PorC#\projet1\obj\Debug\net6.0\projet1.pdb
+C:\PorC#\projet1\obj\Debug\net6.0\projet1.genruntimeconfig.cache
+C:\PorC#\projet1\obj\Debug\net6.0\ref\projet1.dll
